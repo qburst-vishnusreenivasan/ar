@@ -8785,3 +8785,5 @@ AFRAME.registerSystem('arjs', {
 		this._arSession.onResize()
 	},
 })
+
+// feature 1
